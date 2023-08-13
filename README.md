@@ -9,4 +9,8 @@ By the end of this project, I hope to demonstrate these skills:
 - making a very simple website
 - how to make good commit messages
 
-I will add self-reflections later!
+My self-reflections:
+
+I think I did a pretty good job! Apart from the badly scaled images which are funny :D. 
+I think learned the basics of git and html, including nachors, images, basic tags and even some attributes!
+This project was very fun to do in my free time and also *very* productive, heh. Can't wait to learn CSS!
