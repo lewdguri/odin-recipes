@@ -13,6 +13,7 @@ img {
     font-weight: bold;
     font-size: 50px;
     text-align: center;
+    background-color: rgb(42, 224, 73);
 }
 .heading.two {
     color: blue;
@@ -23,6 +24,7 @@ img {
     font-style: italic;
     font-size: 20px;
     text-align: center;
+    background-color: yellow;
 }
 
 .ingredients {
