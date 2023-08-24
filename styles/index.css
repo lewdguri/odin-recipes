@@ -1,20 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.card {
+    background-color: white;
+    width: 1000;
+    padding: 10px;
+}
+
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
+}
+
+.img {
+    background-color: lightskyblue;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    width: 75%;
 }
 
 .heading {
-    color: red;
     font-weight: bold;
     font-size: 50px;
     text-align: center;
-    background-color: aquamarine;
+    background-color: lightskyblue;
+    width: 75%;
 }
 
-.recipes {
+.recipe-list {
     font-size: 30px;
-    background-color: yellow;
+    background-color: lightskyblue;
+    padding: 10px;
+    width: 75%;
+}
+
+.recipe {
+    margin: 10px 40px;
 }
 
 .chicken {
